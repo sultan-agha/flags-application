@@ -31,7 +31,7 @@
   </ol>
 
   <h2>Screenshots:</h2>
- <img src="images/flag.jpeg" alt="view of the application "> 
+ <img src="images/flag.jpeg" height="300" alt="view of the application "> 
 
   <h2>Getting Started:</h2>
   <p>
